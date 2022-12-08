@@ -2,7 +2,7 @@
 Paytm
 
 - HTML5
-- Css3
+- Tailwind
 
 ### Time Taken
 - 16 hours
